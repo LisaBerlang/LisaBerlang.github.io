@@ -1,10 +1,17 @@
+h1, p, ul {
+  font-family: helvetica;}
+
 h1 {
-  font-family: helvetica;
-  font-size: 100px;
+  font-size: 60px;
   font-weight: bold;
+  text-align: center
 }
 
 p {
-  font-family: helvetica;
-  font-size: 30px;
+  font-size: 10px;
 }
+
+ul {
+  font-size: 10px;
+}
+  
